@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103896875074",
+    "firebase_url": "https://grostarry-5e5b0.firebaseio.com",
+    "project_id": "grostarry-5e5b0",
+    "storage_bucket": "grostarry-5e5b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103896875074:android:246e6882a4b22f8967eddb",
+        "android_client_info": {
+          "package_name": "app.grostarry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103896875074-igk6kovqvo62honis03s59ejk7gv76mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDtsN7R3rzSb6CKsGKutJqrvq4HHulQ28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103896875074-igk6kovqvo62honis03s59ejk7gv76mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
